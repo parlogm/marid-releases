@@ -1,0 +1,63 @@
+Marid — End User Licence Agreement
+
+Copyright (c) 2026 Mihai Parlog. All rights reserved.
+
+This licence covers the compiled Marid application distributed from this
+repository ("the Software"). By downloading, installing, or using the Software,
+you agree to these terms. If you do not agree, do not install or use it.
+
+1. Grant of licence
+
+   You are granted a non-exclusive, non-transferable, revocable licence to
+   download, install, and use the Software on any number of devices you own or
+   control, for personal or commercial purposes.
+
+2. Restrictions
+
+   You may not:
+
+   a. redistribute, sell, rent, lease, sublicense, or host the Software for
+      others to download;
+   b. reverse engineer, decompile, or disassemble the Software, except to the
+      extent that applicable law expressly permits it despite this limitation;
+   c. remove or alter any copyright, trademark, or other proprietary notice.
+
+3. Ownership
+
+   The Software is licensed, not sold. All right, title, and interest in the
+   Software, including all intellectual property rights, remain with the
+   copyright holder. No rights are granted other than those stated above.
+
+4. Third-party components
+
+   The Software includes third-party components distributed under their own
+   licences. Those licences continue to apply to their respective components,
+   and where they conflict with this agreement, they prevail for that
+   component. Notices are included with the Software.
+
+5. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+   OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+   The Software forwards network requests to destinations you choose. You are
+   responsible for the requests you send and for complying with the terms of any
+   service you access with it.
+
+7. Termination
+
+   This licence terminates automatically if you breach any of its terms. On
+   termination you must stop using the Software and delete all copies.
+
+8. Governing law
+
+   This agreement is governed by the laws of [JURISDICTION — fill this in],
+   without regard to its conflict-of-law provisions.
