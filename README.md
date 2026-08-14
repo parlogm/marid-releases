@@ -15,8 +15,8 @@ Get the latest build from the [**Releases**](https://github.com/parlogm/marid-re
 | macOS | `Marid-<version>-arm64.dmg` | Apple Silicon (M1 or newer). **Intel Macs are not supported.** |
 | Windows | `Marid Setup <version>.exe` | 64-bit (x64) |
 
-Each release also publishes `SHA256SUMS.txt`. Verifying is optional but recommended —
-see [Verifying your download](#verifying-your-download).
+Each release also publishes `SHA256SUMS-mac.txt` and `SHA256SUMS-win.txt`. Verifying is
+optional but recommended — see [Verifying your download](#verifying-your-download).
 
 ## Installing
 
@@ -62,8 +62,8 @@ Windows (PowerShell):
 Get-FileHash -Algorithm SHA256 "$env:USERPROFILE\Downloads\Marid Setup 0.1.0.exe"
 ```
 
-The value printed should appear in `SHA256SUMS.txt`. If it doesn't, don't run the
-file — re-download it, and if it still doesn't match, open an issue.
+The value printed should appear in the matching `SHA256SUMS-*.txt`. If it doesn't,
+don't run the file — re-download it, and if it still doesn't match, open an issue.
 
 ## Your data
 
