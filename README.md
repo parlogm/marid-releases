@@ -88,5 +88,5 @@ you were doing. Do not paste request bodies, tokens, or API keys into an issue.
 
 ## Licence
 
-Marid is proprietary software. See [LICENSE](LICENSE) for the terms that apply to
-these binaries.
+Marid is proprietary software, © MPM Tech IT. See [LICENSE](LICENSE) for the terms
+that apply to these binaries.
