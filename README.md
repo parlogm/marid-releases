@@ -20,9 +20,17 @@ optional but recommended — see [Verifying your download](#verifying-your-downl
 
 ## Installing
 
-Marid is **not code-signed yet**, so both operating systems will warn you the first
-time you open it. This is expected. Signing is planned; until then, here is the
-one-time ritual on each platform.
+Marid is ad-hoc signed but **not notarized** — notarization needs a paid Apple
+Developer account — so both operating systems warn you the first time you open it.
+This is expected. Here is the one-time ritual on each platform.
+
+> If macOS says **"Marid is damaged and can't be opened"**, you have a build from
+> before 2026-08-18, which shipped without a valid signature. Download again from
+> the Releases page, or clear the quarantine flag on the copy you have:
+>
+> ```bash
+> xattr -dr com.apple.quarantine /Applications/Marid.app
+> ```
 
 ### macOS
 
